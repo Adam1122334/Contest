@@ -195,26 +195,50 @@
   <div class="col-10">
     <select class="form-control"  id="month" name="month" class="input-xlarge">
                             <option value="" selected="selected">Month</option>
-                              <option value="1">1980</option>
-                           <option value="2">1981</option>
-                           <option value="3">1982</option>
-                           <option value="4">1983</option>
-                           <option value="5">1984</option>
-                           <option value="6">1985</option>
-                           <option value="7">1986</option>
-                           <option value="8">1987</option>
-                           <option value="9">1988</option>
-                           <option value="10">1989</option>
-                           <option value="11">1990</option>
-                           <option value="12">1991</option>
-                           <option value="13">1992</option>
-                           <option value="14">1993</option>
-                           <option value="15">1994</option>
-                           <option value="16">1995</option>
-                           <option value="17">1996</option>
-                           <option value="18">1997</option>
-                           <option value="19">1998</option>
-                           <option value="20">1999</option>
+                            <option value="01">January</option>
+                           <option value="02">February</option>
+                           <option value="03">March</option>
+                           <option value="04">April</option>
+                           <option value="05">May</option>
+                           <option value="06">June</option>
+                           <option value="07">July</option>
+                           <option value="08">August</option>
+                           <option value="09">September</option>
+                           <option value="10">October</option>
+                           <option value="11">November</option>
+                           <option value="12">December</option>
+                        
+    </select>
+  </div>
+</div>
+
+
+
+<div class="form-group row">
+  <label for="example-tel-input" class="col-2 col-form-label">Year of your birth</label>
+  <div class="col-10">
+    <select class="form-control"  id="year" name="year" class="input-xlarge">
+                            <option value="" selected="selected">Year</option>
+                            <option value="1">1980</option>
+                            <option value="2">1981</option>
+                            <option value="3">1982</option>
+                            <option value="4">1983</option>
+                            <option value="5">1984</option>
+                            <option value="6">1985</option>
+                            <option value="7">1986</option>
+                            <option value="8">1987</option>
+                            <option value="9">1988</option>
+                            <option value="10">1989</option>
+                            <option value="11">1990</option>
+                            <option value="12">1991</option>
+                            <option value="13">1992</option>
+                            <option value="14">1993</option>
+                            <option value="15">1994</option>
+                            <option value="16">1995</option>
+                            <option value="17">1996</option>
+                            <option value="18">1997</option>
+                            <option value="19">1998</option>
+                            <option value="20">1999</option>
 
     </select>
   </div>
